@@ -1,7 +1,19 @@
 # automatic-baking
 
-クッキーを自動で焼きます  
+# 環境構築  
 
-## thred-sample.py についてのメモ
+最初に venv しておく  
+```
+python3 -m venv automatic-baking  
+```  
 
-thred は start() された時点で前の thred を破棄するため食いつぶすことはない  
+コンパイル前に  
+
+```
+source automatic-baking/bin/activate
+```
+
+# わからんこと
+
+threding でファイルに書き込みしようとしたら失敗したので  
+そこら辺調べとく
