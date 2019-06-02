@@ -13,7 +13,9 @@ python3 -m venv automatic-baking
 source automatic-baking/bin/activate
 ```
 
-# わからんこと
+# 予定
 
-threding でファイルに書き込みしようとしたら失敗したので  
-そこら辺調べとく
+次は自動購入の実装したい  
+- とりま溜まり次第購入  
+
+この前朝までクッキー焼いてたらプログラム死んだので調査したい  
