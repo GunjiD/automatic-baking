@@ -19,7 +19,7 @@ source automatic-baking/bin/activate
 
 # 予定
 
-次は自動購入の実装したい  
-- とりま溜まり次第購入  
-
+グラフ化  
+Metabase を使う予定  
+MySQL か SQLite を使用  
 この前朝までクッキー焼いてたらプログラム死んだので調査したい  
