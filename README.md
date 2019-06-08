@@ -3,9 +3,13 @@
 # 環境構築  
 
 最初に venv しておく  
+
 ```
 python3 -m venv automatic-baking  
 ```  
+
+selenium を venv 後に install しておく  
+chrome の webdriver は 74系を使用する  
 
 コンパイル前に  
 
